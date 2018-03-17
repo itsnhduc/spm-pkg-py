@@ -1,0 +1,19 @@
+{
+  "name": "spm-pkg-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnhduc/spm-pkg-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnhduc/spm-pkg-class/issues"
+  },
+  "homepage": "https://github.com/itsnhduc/spm-pkg-class#readme"
+}
